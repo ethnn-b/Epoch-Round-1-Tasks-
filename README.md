@@ -47,9 +47,7 @@ https://www.youtube.com/watch?v=tJ4A6QBdEQs
 
 # Task 2 - CV + NLP
 Sentiment Analysis of Handwritten Text Using Custom-built OCR and Sentiment Classification Models
-******
- In task 2, uploaded task_2.ipynb file, the code does execute correctly. The errors seen if viewed in the repo are due to last-minute editing of portions code just before submission, but when run from start to end, it does give the correct output.
-******
+
 
 The models for OCR and Sentiment Analysis are both implemented using TensorFlow
 
