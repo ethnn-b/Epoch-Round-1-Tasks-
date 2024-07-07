@@ -102,13 +102,5 @@ https://www.youtube.com/watch?v=eMPQw7Xbjd0&pp=ygUoc2VudGltZW50IGFuYWx5c2lzIHB5d
 https://www.youtube.com/watch?v=Zi4i7Q0zrBs&pp=ygU5aGFuZHdyaXR0ZW4gY2hhcmFjdGVyIHJlY29nbml0aW9uIHVzaW5nIHB5dGhvbiB0ZW5zb3JmbG93
 https://www.youtube.com/watch?v=Ixm_yQYK09E&pp=ygU5aGFuZHdyaXR0ZW4gY2hhcmFjdGVyIHJlY29nbml0aW9uIHVzaW5nIHB5dGhvbiB0ZW5zb3JmbG93
 
-
-
-
-
-
-
-
-  Basic overview:
   
   
